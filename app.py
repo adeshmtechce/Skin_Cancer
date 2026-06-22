@@ -32,7 +32,7 @@ MODEL_PATH = "model.pth"
 if not os.path.exists(MODEL_PATH):
     print("Downloading model...")
     gdown.download(
-        id="1PZK8n3Dv4G-qWn0gDML5uujEfkMznAxi",
+        id="1CB0gMpfLF09Rulvl6qxUBDL7sD72XA1R",
         output=MODEL_PATH,
         quiet=False
     )

@@ -1,2 +1,4 @@
-opencv-python-headless
-pytorch-grad-cam
+torch 
+torchvision 
+pandas 
+pillow

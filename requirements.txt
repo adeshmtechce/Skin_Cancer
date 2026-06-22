@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pillow
+grad-cam
+matplotlib
+opencv-python-headless
+gdown

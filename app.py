@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import torch
 import torch.nn as nn
@@ -279,4 +278,3 @@ if uploaded_file is not None:
         }),
         use_container_width=True
     )
-```
